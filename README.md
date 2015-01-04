@@ -1,2 +1,2 @@
-qudea.com
+Qudea's official web page
 =========
